@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Alex Konkin",
+        "url": "https://github.com/alexkonkin/jquery.linkit"
+    },
+    "maintainers": [
+        {
+            "name": "Alex Konkin",
+            "email": "alexkonkin@gmail.com",
+            "url": "https://github.com/alexkonkin/jquery.linkit"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/alexkonkin/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/alexkonkin/jquery.linkit",
+    "docs": "https://github.com/alexkonkin/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
